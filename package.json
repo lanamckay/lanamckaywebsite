@@ -4,13 +4,24 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
+    "@chakra-ui/react": "^1.7.3",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "framer-motion": "^4.1.17",
+    "include-media": "^1.4.10",
+    "lodash": "^4.17.21",
+    "node-sass": "^7.0.1",
+    "react": "^17.0.2",
+    "react-alice-carousel": "^2.5.1",
+    "react-dom": "^17.0.2",
+    "react-fade": "^1.1.1",
+    "react-fade-in": "^2.0.1",
+    "react-scripts": "5.0.0",
+    "react-scroll": "^1.8.4",
+    "web-vitals": "^2.1.2"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -39,6 +50,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "prettier": "2.5.1"
   }
 }
