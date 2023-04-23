@@ -1,0 +1,90 @@
+@import "./include-media";
+
+.card {
+  width: 350px;
+  height: 300px;
+  overflow: hidden !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  .content {
+    font-family: "Open Sans";
+    text-align: center;
+    padding: 22px;
+    opacity: 0;
+    transition: all 100ms ease-in-out;
+    transform: translate(0, 20px);
+    cursor: pointer;
+
+    h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 350px;
+    background: #12ABF8;
+    font-size: 26px;
+    margin-top: -18px;
+    font-family: 'Open Sans', monospace;
+  
+    }
+    h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    width: 350px;
+    background: #12ABF8;
+    font-size: 20px;
+    margin-top: -30px;
+    font-family: 'Open Sans', monospace;
+    font-weight: 300;
+    }
+  
+    p {
+      font-size: 15px;
+      color: rgb(0, 0, 0);
+      margin-bottom: 20px;
+      @include media(">=phone", "<desktop") {
+        line-height: normal;
+      }
+    }
+    h3 {
+      display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 350px;
+    background: #12ABF8;
+    font-size: 14px;
+    margin-top: 70px;
+    font-family: "Open Sans";
+    }
+
+    .btn {
+      background-color: black;
+      color: white;
+      padding: 10px;
+      text-decoration: none;
+      align-items: center;
+    }
+    .btn2 {
+      background-color: #3580a6;
+      color: white;
+      padding: 10px;
+      text-decoration: none;
+      align-items: center;
+    }
+
+    &:hover {
+      opacity: 1;
+      height: 100%;
+      width: 100%;
+      background-color: rgb(247, 247, 247);
+    }
+  }
+}
