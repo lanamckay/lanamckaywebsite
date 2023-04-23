@@ -1,6 +1,6 @@
 {
-  "name": "lanamckaywebsite",
-  "homepage": "https://lanamckay.github.io/lanamckaywebsite",
+  "name": "lanamckay",
+  "homepage": "https://lanamckay.github.io/lanamckay",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

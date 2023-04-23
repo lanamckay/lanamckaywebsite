@@ -1,7 +1,7 @@
 import React from "react";
 import FadeIn from "react-fade-in/lib/FadeIn";
 import workInfo from "../information/workInfo.js";
-import WorkCard from "./workCard";
+import WorkCard from "./WorkCard";
 import AliceCarousel from "react-alice-carousel";
 
 import "react-alice-carousel/lib/scss/alice-carousel.scss";
