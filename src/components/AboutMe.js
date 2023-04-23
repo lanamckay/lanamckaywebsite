@@ -18,7 +18,7 @@ const About = () => {
               I'm a 3rd year student at the University of Waterloo studying Systems Design Engineering 💻
               <br></br>
               <br></br>
-              My involvement in personal projects, hackathons, and work experience at Empire Life and Manulife, I have gained valuable experience working in software development and product management.
+              Through my involvement in personal projects, hackathons, and work experience at Empire Life and Manulife, I have gained valuable experience working in software development and product management.
               <br></br>
               <br></br>
               During my free time you can find me at the gym, travelling, eating good foods, or hanging out with my dog! {" "}

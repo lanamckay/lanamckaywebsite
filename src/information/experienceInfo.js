@@ -16,7 +16,7 @@ export default {
     {
       title: "Out of the Groupchat",
       title2: "",
-      para: "Web application that offers a platform for organzing and deciding on group plans",
+      para: "Web application that makes planning events easy by asking participants to vote and indicate their availability from your options",
       image: ootgc,
       url: "https://github.com/MatthewZhang7/OOTGCcore",
       url2: "https://github.com/MatthewZhang7/OOTGCcore",
