@@ -3,6 +3,7 @@ import FadeIn from "react-fade-in";
 
 import "../css/Header.scss";
 import "../css/Main.scss";
+import resume from "../images/resume.png";
 
 const Header = () => {
   return (
@@ -32,7 +33,8 @@ const Header = () => {
           <FadeIn bottom>
             <a
               className="button"
-              href=""
+              href={resume}
+              target="_blank"
             >
               View Resume
             </a>

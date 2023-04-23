@@ -8,7 +8,7 @@ import About from "./components/AboutMe";
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
 import Work from "./components/Work";
-import Skill from "./components/Skills";
+import Knowledge from "./components/Knowledge";
 
 ReactDOM.render(
   <React.StrictMode>
@@ -17,7 +17,7 @@ ReactDOM.render(
       <About></About>
       <Work></Work>
       <Experience></Experience>
-      <Skill></Skill>
+      <Knowledge></Knowledge>
       <Contact></Contact>
     </Layout>
   </React.StrictMode>,

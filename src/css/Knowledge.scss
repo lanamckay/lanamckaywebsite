@@ -1,6 +1,6 @@
 @import "./include-media";
 
-.skills-container {
+.knowledge-container {
   width: 70vw;
   margin-top: 5vh;
   display: flex;
@@ -10,7 +10,7 @@
     font-size: 3rem;
     line-height: 20px;
   }
-  .skills-grid {
+  .knowledge-grid {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     margin-top: 50px;
@@ -26,7 +26,7 @@
       grid-template-columns: 1fr 1fr;
     }
 
-    .skill {
+    .knowledge {
       display: flex;
       flex-direction: column;
       align-items: center;

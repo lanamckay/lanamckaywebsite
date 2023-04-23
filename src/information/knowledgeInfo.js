@@ -5,7 +5,7 @@ import business from "../images/business.png"
 import design from "../images/design.png"
 
 export default {
-  skills: [
+  knowledge: [
     {
       img: techindustry,
     },

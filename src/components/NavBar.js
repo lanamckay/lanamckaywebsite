@@ -28,11 +28,11 @@ const NavBar = () => {
                 Projects
               </Link>
             </button>
-            <button>
-              <Link to="skills" spy={true} smooth={true}>
-                Skills
+            {/* <button>
+              <Link to="knowledge" spy={true} smooth={true}>
+              Knowledge
               </Link>
-            </button>
+            </button> */}
             <button>
               <Link to="contact" spy={true} smooth={true}>
                 Contact
