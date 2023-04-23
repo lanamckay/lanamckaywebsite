@@ -1,6 +1,6 @@
 # Lana McKay Personal Website created with React
 
-My responsive personal website built with React.
+My responsive personal website built with React
 <br/>
 You can find it at <a href="https://github.com/lanamckay/lanamckay">Here!</a>
 <br/>

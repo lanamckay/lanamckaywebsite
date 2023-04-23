@@ -3,6 +3,7 @@
   "homepage": "https://lanamckay.github.io/lanamckay",
   "version": "0.1.0",
   "private": true,
+  
   "dependencies": {
     "@chakra-ui/react": "^1.7.3",
     "@emotion/react": "^11.7.1",
