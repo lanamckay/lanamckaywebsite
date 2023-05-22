@@ -2,7 +2,7 @@
 
 My responsive personal website built with React
 <br/>
-You can find it at <a href="https://github.com/lanamckay/lanamckaywebsite">Here!</a>
+You can find it at <a href="[https://github.com/lanamckay/lanamckaywebsite](https://lanamckay.com)">Here!</a>
 <br/>
 <br/>
 
